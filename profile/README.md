@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/palttech/palttech/blob/main/user.png?raw=true" alt="Palt Tech Logo" width="250">
+  <img src="https://github.com/palttech/palttech/blob/main/user.png?raw=true" alt="Palt Tech Logo" width="180">
   <h1 align="center">Welcome to Palt Tech!</h1>
 </p>
 
