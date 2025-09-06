@@ -47,12 +47,16 @@ Our projects are community driven and aim to solve real world problems, includin
 
 ## Our Technology Stack
 
-We use a variety of modern technologies, giving you a chance to learn in-demand skills. While each project is different, here are some of the tools we love:
+We use a modern, open-source-friendly stack designed for scalability, developer velocity, and production readiness:
 
--   **Frontend**: React, TypeScript, Vue.js, Svelte, Tailwind CSS
--   **Backend**: Go (Golang), Python, Node.js, Rust
--   **Databases**: PostgreSQL, MongoDB, Redis
--   **DevOps & Infrastructure**: Docker, Kubernetes, GitHub Actions, Terraform
+- **Frontend**: Next.js (App Router), React, TypeScript, Shadcn UI, Radix UI, Tailwind CSS  
+- **Backend**: FastAPI (Python), Node.js (TypeScript), tRPC/GraphQL (where applicable)  
+- **Databases & Caching**: PostgreSQL, Redis, Prisma (Node.js), SQLAlchemy 2.0 async (Python)  
+- **Auth & Security**: NextAuth.js, OAuth2/JWT, Zod (validation), Pydantic v2 (validation)  
+- **Testing & QA**: Jest, React Testing Library, Pytest, Playwright (E2E), MSW (mocks)  
+- **DevOps & Infrastructure**: Docker, GitHub Actions, Turborepo, PNPM  
+- **Observability & Monitoring**: OpenTelemetry, Prometheus, Grafana  
+- **Deployment**: Vercel (frontend), Fly.io/Render/Supabase (backend & DB hosting)   
 
 ## How to Contribute
 
